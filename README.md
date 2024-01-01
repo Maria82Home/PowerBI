@@ -1,1 +1,1 @@
-# PowerBI
+# Учебный проект по PowerBI
